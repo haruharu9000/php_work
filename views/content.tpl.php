@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang='ja'>
+    <?php include('header.inc.php'); ?>
     <head>
         <mata charset='utf-8'>
         <title>PHP-Web</title>
@@ -12,5 +13,6 @@
         <?php foreach ($players as $player) { ?>
             <p><?= $player ?>はモンスターと戦った</p>
         <?php } ?>
+        <?php include('footer.inc.php'); ?>
     </body>
 </html>

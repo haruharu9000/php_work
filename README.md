@@ -6,11 +6,13 @@
 
 MacOS Monterey 12.2.1
 
-MacBook Air(M1,2020)
+13inch MacBook Air(M1,2020)
 
 メモリ 8GB
 
 SSD 256GB
+
+8コアCPU,7コアGPU,16コアNeural Engine
 
 ## 実行環境
 

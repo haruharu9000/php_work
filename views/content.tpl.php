@@ -7,5 +7,6 @@
     </head>
     <body>
         <h1>おはよう日本</h1>
+        <p><?= $message ?></p>
     </body>
 </html>
